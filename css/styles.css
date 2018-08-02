@@ -1,0 +1,14 @@
+.col-4 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#quote-box {
+  border: 4px solid grey;
+}
+#heading div{
+  text-align: center;
+}
+.btn {
+  margin-left: 15%;
+  border: 4px solid grey;
+}
